@@ -35,3 +35,26 @@ Every time code is pushed to GitHub, the pipeline triggers automatically and dep
 ---
 
 ## 📂 Project Structure
+
+aws-pipeline-demo/
+│── index.html
+│── buildspec.yml
+│── README.md
+
+
+---
+
+## 📄 buildspec.yml
+
+```yaml
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Building..."
+
+artifacts:
+  files:
+    - '**/*'
+
