@@ -58,3 +58,38 @@ artifacts:
   files:
     - '**/*'
 
+**Live Website **
+http://abhay-pipeline-demo-123.s3-website.ap-south-1.amazonaws.com
+    
+
+
+ **Key Features**
+
+Fully automated CI/CD pipeline
+
+Continuous deployment on every Git push
+
+Serverless hosting using Amazon S3
+
+Real-time updates without manual upload
+
+
+**What I Learned**
+
+Setting up AWS CodePipeline and CodeBuild
+
+Integrating GitHub with AWS
+
+Automating deployments using CI/CD
+
+Hosting static websites on S3
+
+
+ **Author**
+
+Abhay Soni
+abhaysoni9527@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/abhay-soni-5b357b24b
+
+GitHub: https://github.com/Abhaysoni100
